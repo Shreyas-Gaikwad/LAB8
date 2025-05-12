@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832984180704",
+    "project_id": "fire-a31d5",
+    "storage_bucket": "fire-a31d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832984180704:android:fa172f8586404c0181ed85",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJD7j2zaDnhw0Vp-peTmpMox23QRy1bIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
